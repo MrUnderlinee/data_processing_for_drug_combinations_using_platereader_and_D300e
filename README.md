@@ -4,7 +4,7 @@ The script only processes data in a very spcific way to then use it for bayesyne
 
 For the script to work different requirements need to match
 - All inputs need to be csv-files
-- only include the raw data and header, remove other all other things! 
+- Only include the raw data and header, remove other all other things! 
 - If different plates are stored in one file, remove all other plates!
 
 The plate reader file:
